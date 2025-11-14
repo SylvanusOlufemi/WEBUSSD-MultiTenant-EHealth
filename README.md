@@ -1,4 +1,6 @@
 # 🏥 WEBUSSD Care: Multi-Tenant PHI Exchange API (SDG 3 & 9)
+
+<img width="1344" height="768" alt="Generate_an_hd_202511141309" src="https://github.com/user-attachments/assets/69cbcf31-d208-487f-a6cd-a3431b52cd43" />
 A secure, multi-tenant Flask application using USSD for Protected Health Information (PHI) exchange in low-bandwidth regions (SDG 3 &amp; 9).
 
 ## Project Overview
